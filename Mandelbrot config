@@ -1,0 +1,9 @@
+#Mandelbrot config
+#Wed Jun 25 21:47:24 CEST 2025
+endX=1
+endY=-1.2
+inside=\#
+iterations=1000
+outside=\ 
+startX=-2
+startY=1.2
